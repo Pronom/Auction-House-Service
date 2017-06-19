@@ -1,0 +1,18 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\ConsoleTests.exe.config
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\ConsoleTests.exe
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\ConsoleTests.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\obj\Debug\ConsoleTests.exe
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\obj\Debug\ConsoleTests.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\BOL.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\obj\Debug\ConsoleTests.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\AuctionHouseDataParser.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\AuctionHouseDataParser.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\StatisticsTool.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\Data Access Layer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\StatisticsTool.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\ConsoleTests\bin\Debug\Data Access Layer.pdb

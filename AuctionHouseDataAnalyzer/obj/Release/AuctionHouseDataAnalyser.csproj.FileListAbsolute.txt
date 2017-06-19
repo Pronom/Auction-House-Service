@@ -1,0 +1,15 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\AuctionHouseDataParser.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\AuctionHouseDataParser.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\Data Access Layer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\StatisticsTool.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\Newtonsoft.Json.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\BOL.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\Data Access Layer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\StatisticsTool.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\bin\Release\Newtonsoft.Json.xml
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\obj\Release\AuctionHouseDataAnalyser.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\obj\Release\AuctionHouseDataParser.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionHouseDataParser\obj\Release\AuctionHouseDataParser.pdb

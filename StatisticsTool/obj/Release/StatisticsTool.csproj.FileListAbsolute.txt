@@ -1,0 +1,5 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\StatisticsTool\bin\Release\StatisticsTool.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\StatisticsTool\bin\Release\StatisticsTool.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\StatisticsTool\obj\Release\StatisticsTool.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\StatisticsTool\obj\Release\StatisticsTool.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\StatisticsTool\obj\Release\StatisticsTool.pdb

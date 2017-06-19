@@ -1,0 +1,5 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\BOL\bin\Release\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\BOL\bin\Release\BOL.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\BOL\obj\Release\BOL.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\BOL\obj\Release\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\BOL\obj\Release\BOL.pdb

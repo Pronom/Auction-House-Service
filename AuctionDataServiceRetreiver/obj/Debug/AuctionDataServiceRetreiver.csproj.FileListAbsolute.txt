@@ -1,0 +1,32 @@
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.exe.config
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.exe
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.pdb
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Model.dll
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Model.pdb
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.exe
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.pdb
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.csprojResolveAssemblyReference.cache
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.ProjectInstaller.resources
+C:\Users\Ayoub\documents\visual studio 2015\Projects\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.csproj.GenerateResource.Cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.exe
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.exe.config
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.exe
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionDataServiceRetreiver.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionHouseDataParser.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Newtonsoft.Json.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\AuctionHouseDataParser.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Newtonsoft.Json.xml
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\StatisticsTool.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\StatisticsTool.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\BOL.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Data Access Layer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\bin\Debug\Data Access Layer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.ProjectInstaller.resources
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\AuctionDataServiceRetreiver\obj\Debug\AuctionDataServiceRetreiver.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\bin\Debug\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\bin\Debug\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\bin\Debug\Newtonsoft.Json.xml
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\obj\Debug\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\obj\Debug\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache

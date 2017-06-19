@@ -1,0 +1,11 @@
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\BOL.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\JSONSerializer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\BOL.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\JSONSerializer.pdb
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\bin\Debug\Newtonsoft.Json.xml
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\Documents de l'autre\Mes Projets\ConsoleCSharpPourTests\Data Access Layer\obj\Debug\Data Access Layer.pdb
